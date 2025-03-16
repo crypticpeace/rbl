@@ -18,16 +18,16 @@ const SpiritualWellnessPage = () => {
               
               {/* Nav Links */}
               <div className="hidden md:flex items-center space-x-1">
-                <a href="#" className="py-4 px-3 text-blue-100 hover:text-white">Home</a>
-                <a href="#" className="py-4 px-3 text-blue-100 hover:text-white">About</a>
-                <a href="#" className="py-4 px-3 text-blue-100 hover:text-white">Contact</a>
+                <a href="https://example.com" className="py-4 px-3 text-blue-100 hover:text-white">Home</a>
+                <a href="https://example.com" className="py-4 px-3 text-blue-100 hover:text-white">About</a>
+                <a href="https://example.com" className="py-4 px-3 text-blue-100 hover:text-white">Contact</a>
               </div>
             </div>
             
             {/* Secondary Nav Links */}
             <div className="hidden md:flex items-center space-x-1">
-              <a href="#" className="py-2 px-3 bg-blue-700 hover:bg-blue-800 text-white rounded transition duration-300">Login</a>
-              <a href="#" className="py-2 px-3 bg-blue-700 hover:bg-blue-800 text-white rounded transition duration-300">Sign Up</a>
+              <a href="https://example.com" className="py-2 px-3 bg-blue-700 hover:bg-blue-800 text-white rounded transition duration-300">Login</a>
+              <a href="https://example.com" className="py-2 px-3 bg-blue-700 hover:bg-blue-800 text-white rounded transition duration-300">Sign Up</a>
             </div>
             
             {/* Mobile menu button */}
@@ -76,7 +76,7 @@ const SpiritualWellnessPage = () => {
             <div className="p-6 flex flex-col flex-grow">
               <h3 className="text-xl font-bold text-gray-800 mb-2">आध्यात्मिक कहानियाँ (Spiritual Stories)</h3>
               <p className="text-gray-600 mb-4 flex-grow">महाकाव्यों, पुराणों और लोक परंपराओं से ज्ञान की कहानियाँ जो मार्गदर्शन और प्रेरणा देती हैं।</p>
-              <a href="#" className="text-blue-700 hover:text-blue-900 font-semibold">Read Stories &rarr;</a>
+              <a href="https://example.com" className="text-blue-700 hover:text-blue-900 font-semibold">Read Stories &rarr;</a>
             </div>
           </div>
           
@@ -88,7 +88,7 @@ const SpiritualWellnessPage = () => {
             <div className="p-6 flex flex-col flex-grow">
               <h3 className="text-xl font-bold text-gray-800 mb-2">आयुर्वेदिक स्वास्थ्य (Ayurvedic Wellness)</h3>
               <p className="text-gray-600 mb-4 flex-grow">संतुलित जीवन और प्राकृतिक उपचार के लिए पारंपरिक स्वास्थ्य पद्धतियाँ।</p>
-              <a href="#" className="text-blue-700 hover:text-blue-900 font-semibold">Discover Health &rarr;</a>
+              <a href="https://example.com" className="text-blue-700 hover:text-blue-900 font-semibold">Discover Health &rarr;</a>
             </div>
           </div>
           
@@ -100,7 +100,7 @@ const SpiritualWellnessPage = () => {
             <div className="p-6 flex flex-col flex-grow">
               <h3 className="text-xl font-bold text-gray-800 mb-2">ऑनलाइन सत्र (Online Sessions)</h3>
               <p className="text-gray-600 mb-4 flex-grow">विशेषज्ञ प्रशिक्षकों के साथ लाइव योग, ध्यान और आध्यात्मिक प्रवचन सत्र।</p>
-              <a href="#" className="text-blue-700 hover:text-blue-900 font-semibold">Join Sessions &rarr;</a>
+              <a href="https://example.com" className="text-blue-700 hover:text-blue-900 font-semibold">Join Sessions &rarr;</a>
             </div>
           </div>
         </div>
