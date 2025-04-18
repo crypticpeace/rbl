@@ -16,13 +16,13 @@ const Navbar = () => {
 
             {/* Nav Links */}
             <div className="hidden md:flex items-center space-x-1">
-              <a href="#" className="py-4 px-3 text-blue-100 hover:text-white transition duration-300">
+              <a href="home" className="py-4 px-3 text-blue-100 hover:text-white transition duration-300">
                 Home
               </a>
-              <a href="#" className="py-4 px-3 text-blue-100 hover:text-white transition duration-300">
+              <a href="about" className="py-4 px-3 text-blue-100 hover:text-white transition duration-300">
                 About
               </a>
-              <a href="#" className="py-4 px-3 text-blue-100 hover:text-white transition duration-300">
+              <a href="contact" className="py-4 px-3 text-blue-100 hover:text-white transition duration-300">
                 Contact
               </a>
             </div>
@@ -31,13 +31,13 @@ const Navbar = () => {
           {/* Secondary Nav Links */}
           <div className="hidden md:flex items-center space-x-1">
             <a
-              href="#"
+              href="login"
               className="py-2 px-3 bg-blue-700 hover:bg-blue-800 text-white rounded transition duration-300"
             >
               Login
             </a>
             <a
-              href="#"
+              href="signup"
               className="py-2 px-3 bg-blue-700 hover:bg-blue-800 text-white rounded transition duration-300"
             >
               Sign Up
