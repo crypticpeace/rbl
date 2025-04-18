@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "title": "Hare Krishna Hare Rama",
+    "lyrics": "Hare Krishna, Hare Krishna\nKrishna Krishna, Hare Hare\nHare Rama, Hare Rama\nRama Rama, Hare Hare",
+    "deity": "Krishna",
+    "language": "Sanskrit",
+    "duration": "4:30",
+    "audio": "../assets/music/1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Shiva Tandava Stotram",
+    "lyrics": "Jatatavigalajjala pravahapavitasthale\nGaleavalambya lambitam bhujangatungamalikam\nDamaddamaddamaddama ninadavadamarvayam\nChakara chandatandavam tanotu nah shivah shivam\n\nJata katahasambhrama bhramanilimpanirjhari\nVilolavichivalarai virajamanamurdhani\nDhagadhagadhagajjvalalalata pattapavake\nKishora chandrashekhare ratih pratikshanam mama\n\nDharadharendranandini vilasabandhubandhura\nSphuradigantasantati pramodamanamanase\nKrupakatakshadhorani niruddhadurdharapadi\nKvachidigambare manovinodametuvastuni\n\nJatabhujangapingala sphuratphanamaniprabha\nKadambakunkumadravapralipta digvadhumukhe\nMadandhasindhuraspurattvaguttariyamedure\nManovinodamadbhutam bibhartu bhutabhartari\n\nSahasralochanaprabhritya sheshalekhashekhara\nPrasunadhulidhorani vidhusaranghripithabhuh\nBhujangarajamala nibaddhajatajutaka\nShriyai chiraya jayatam chakorabandhushekharah\n\nLalata chatvarajvaladhanajnjaya sphulingabha\nNipetapanchasayakam namannilimpanayakam\nSudhamayukhalekhaya virajamanashekharam\nMahakapalisham bhaje vikartanamakhartanam\n\nTrilochaneratimranilokanathakandalam\nMilanriparikarmukam prapannabhaktaranakam\nNilimbanetrameduram smarantikantamadvayam\nJagadgurum tamadbhutam bhaje bhavani-mandiram\n\nMaheshvaram makhadhvaram mahavratam mahapadam\nMahakapatamadbhutam manojavapratapakam\nManoharam maharanam mahasurendramardanam\nMahavinashanam bhaje manojavakhilam shivam\n\nBhasmajabhisannibhama bhaveshaya tamomayam\nNamatpakam namaskritam namaskritam namamyaham\nBhavambudhipatataram patanjalipadanvitam\nNamami tam vinayakam niramayam haram shivam\n\nPrapanchanasinashanam dhananjayavinashanam\nVishuddhimargagamakam namami tam sadashivam\nShiveti mantramuchcharan shivaya hridi keertitam\nPunaḥ punah namamyaham sada shivam sada shivam"
+,
+    "deity": "Shiva",
+    "language": "Sanskrit",
+    "duration": "8:15",
+    "audio": "/audio/shiva-tandava.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Hanuman Chalisa",
+    "lyrics": "Shri Guru Charan Saroj Raj\nNij Man Mukar Sudhari\nBarnau Raghubar Bimal Jasu\nJo Dayaku Phal Chari\n\nBuddhi Hin Tanu Janike\nSumirau Pavan Kumar\nBal Buddhi Vidya Dehu Mohi\nHarahu Kalesh Vikaar\n\nJai Hanuman Gyan Gun Sagar\nJai Kapis Tihun Lok Ujagar\nRamdoot Atulit Bal Dhama\nAnjani Putra Pavan Sut Nama\n\nMahabir Bikram Bajrangi\nKumati Nivar Sumati Ke Sangi\nKanchan Baran Biraj Subesa\nKanan Kundal Kunchit Kesa\n\nHath Vajra Aur Dhvaja Birajay\nKandhe Moonj Janeu Sajay\nSankar Suvan Kesri Nandan\nTej Pratap Maha Jag Vandan\n\nVidyavan Guni Ati Chatur\nRam Kaj Karibe Ko Atur\nPrabhu Charitra Sunibe Ko Rasiya\nRam Lakhan Sita Man Basiya\n\nSukshma Roop Dhari Siyahi Dikhava\nVikat Roop Dhari Lank Jarava\nBhima Roop Dhari Asur Sanhare\nRamchandra Ke Kaj Sanvare\n\nLaye Sanjeevan Lakhan Jiyaye\nShri Raghubir Harashi Ur Laye\nRaghupati Kinhi Bahut Badai\nTum Mama Priya Bharat Sam Bhai\n\nSahas Badan Tumharo Jas Gaavein\nAsa-Kahi Shripati Kanth Lagaavein\nSankadik Brahmadi Muneesa\nNarad Sarad Sahit Aheesa\n\nYam Kuber Digpal Jahan Te\nKabi Kobid Kahin Sake Kahan Te\nTum Upkar Sugreevahin Keenha\nRam Milaye Rajpad Deenha\n\nTumharo Mantra Vibheeshan Maana\nLankeshwar Bhaye Sab Jag Jaana\nYug Sahastra Jojan Par Bhaanu\nLeelyo Taahi Madhur Phal Jaanu\n\nPrabhu Mudrika Meli Mukha Maahi\nJaladhi Langhi Gaye Achraj Naahi\nDurgaam Kaj Jagat Ke Jete\nSugam Anugrah Tumhre Tete\n\nRam Dware Tum Rakhvare\nHoat Na Aagya Bin Paisare\nSab Sukh Lahen Tumhari Sarna\nTum Rakshak Kaahu Ko Darna\n\nAapan Tej Samharo Aape\nTeenhon Lok Haank Te Kaape\nBhoot Pisach Nikat Nahi Aave\nMahabir Jab Naam Sunave\n\nNaasaye Rog Hare Sab Peera\nJapat Nirantar Hanumat Beera\nSankat Te Hanuman Chhudave\nMan Karam Vachan Dhyan Jo Lavai\n\nSab Par Ram Tapasvee Raja\nTin Ke Kaj Sakal Tum Saja\nAur Manorath Jo Koi Lavai\nSohi Amit Jeevan Phal Pavai\n\nCharon Yug Partap Tumhara\nHai Parsiddh Jagat Ujiyara\nSadhu Sant Ke Tum Rakhware\nAsur Nikandan Ram Dulare\n\nAshta Siddhi Nav Nidhi Ke Data\nAs Bar Din Janki Mata\nRam Rasayan Tumhare Pasa\nSada Raho Raghupati Ke Dasa\n\nTumhare Bhajan Ram Ko Pavai\nJanam Janam Ke Dukh Bisravai\nAntkaal Raghubar Pur Jai\nJahan Janam Hari Bhakt Kahai\n\nAur Devta Chitt Na Dharai\nHanumat Sei Sarva Sukh Karai\nSankat Kate Mite Sab Peera\nJo Sumirai Hanumat Balbeera\n\nJai Jai Jai Hanuman Gosai\nKripa Karahu Gurudev Ki Naai\nJo Shat Baar Path Kare Koi\nChhutehi Bandi Maha Sukh Hoi\n\nJo Yah Padhe Hanuman Chalisa\nHoye Siddhi Sakhi Gaureesa\nTulsidas Sada Hari Chera\nKeejai Nath Hriday Mah Dera\n\nPavantanay Sankat Haran\nMangal Murti Roop\nRam Lakhan Sita Sahit\nHriday Basahu Sur Bhoop"
+,
+    "deity": "Hanuman",
+    "language": "Awadhi",
+    "duration": "7:00",
+    "audio": "/audio/hanuman-chalisa.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Om Jai Jagdish Hare",
+    "lyrics": "Om Jai Jagdish Hare\nSwami Jai Jagdish Hare\nBhakt Jano Ke Sankat\nDaas Jano Ke Sankat\nKshat Mein Door Kare\nOm Jai Jagdish Hare\n\nJo Dhyaave Phal Paave\nDukh Vinse Man Ka\nSwami Dukh Vinse Man Ka\nSukh Sampatti Ghar Aave\nSukh Sampatti Ghar Aave\nKasht Mite Tan Ka\nOm Jai Jagdish Hare\n\nMaat-Pita Tum Mere\nSharan Gahun Mein Kis Ki\nSwami Sharan Gahun Mein Kis Ki\nTum Bin Aur Na Dooja\nTum Bin Aur Na Dooja\nAas Karun Mein Jis Ki\nOm Jai Jagdish Hare\n\nTum Pooran Parmatma\nTum Antaryami\nSwami Tum Antaryami\nParbrahma Parameshwar\nParbrahma Parameshwar\nTum Sabke Swami\nOm Jai Jagdish Hare\n\nTum Karuna Ke Saagar\nTum Palan Karta\nSwami Tum Palan Karta\nMain Moorakh Khaal Kaami\nMain Sevat Tumko\nSwami Sevat Tumko\nMohan Bhav Bharta\nOm Jai Jagdish Hare\n\nTum Ho Ek Agochar\nSabke Praan Pati\nSwami Sabke Praan Pati\nKis Vidhi Milun Dayamay\nKis Vidhi Milun Dayamay\nDaya Karo Mujh Par\nOm Jai Jagdish Hare\n\nVrat Shubh Fal Paave\nSevat Jo Tumko\nSwami Sevat Jo Tumko\nRiddhi Siddhi Dhan Aave\nRiddhi Siddhi Dhan Aave\nSukh Sampatti Paave\nOm Jai Jagdish Hare\n\nOm Jai Jagdish Hare\nSwami Jai Jagdish Hare\nBhakt Jano Ke Sankat\nDaas Jano Ke Sankat\nKshat Mein Door Kare\nOm Jai Jagdish Hare"
+,
+    "deity": "Vishnu",
+    "language": "Hindi",
+    "duration": "5:45",
+    "audio": "/audio/om-jai-jagdish.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Aigiri Nandini",
+    "lyrics": "Aigiri Nandini Nandhitha Medhini\nVishwa Vinodhini Nandanuthe\nGirivara Vindhya Shirodhini Vaasini\nVishnuvilaasini Jishnunuthe\n\nBhagavathi Hey Shithikantha Kutumbini\nBhoorikutumbini Bhoorikrute\nJaya Jaya He Mahishasura Mardhini\nRamya Kapardhini Shailasute\n\nSuravaravarshini Durdharadharshini\nDurmukhamarshini Harsharate\nTribhuvanaposhini Shaṅkaratoshini\nKilbishamoshini Ghosharate\n\nDanujaniraśini Dityavaraśini\nDurmukhamarshini Harsharate\nJaya Jaya He Mahishasura Mardhini\nRamya Kapardhini Shailasute\n\nAyi Jagadamba Madamba Kadambavanapriyavaasini Haasa Rate\nShikhari Shironika Shikharivara Gamanapriyachalanalola Rate\n\nSakala Surasura Devamunīsvara Manavarusura Naikarate\nJaya Jaya He Mahishasura Mardhini\nRamya Kapardhini Shailasute\n\nAyi Shata Khandavikhandita Runda\nVitundita Shunda Gajadhirute\nRipun’ḍa Vibhedana Maulibhandaka\nRandita Shunda Mrigadhirute\n\nNijabhujadanda Nipatita Khanda\nVipatita Munda Bhatadhirute\nJaya Jaya He Mahishasura Mardhini\nRamya Kapardhini Shailasute\n\nAyi Raṇadurmadashatruvadhodita\nDurdaradharsh'n' Mahāhārate\nTribhuvanapālinee Shoolanidhe\nShoolamane' Bhayadaṅkaraate\n\nDanuja Niraasha Kar'alaya Rava\nTidhumra Vilochana Dhumrate\nJaya Jaya He Mahishasura Mardhini\nRamya Kapardhini Shailasute\n\nAyi Smaṛatam Rahitaṁ Punaritaraṁ\nAmitaksharamimadhi Shaktimate\nTava Padameva Param Padamityanu\nShilayato Mama Kimna Shive\n\nJaya Jaya He Mahishasura Mardhini\nRamya Kapardhini Shailasute"
+,
+    "deity": "Durga",
+    "language": "Sanskrit",
+    "duration": "6:30",
+    "audio": "/audio/aigiri-nandini.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Jai Ganesh Jai Ganesh Deva",
+    "lyrics": "Jai Ganesh Jai Ganesh Jai Ganesh Deva\nMata Jaki Parvati Pita Mahadeva\nJai Ganesh Jai Ganesh Jai Ganesh Deva\nMata Jaki Parvati Pita Mahadeva\n\nEk Dant Dayavant, Char Bhujadhari\nMathe Sindoor Sohat, Muse Ki Savari\nJai Ganesh Jai Ganesh Jai Ganesh Deva\nMata Jaki Parvati Pita Mahadeva\n\nAndan Ko Fal Chadhe, Meva Modak Sanga\nLadduan Ka Bhog Lage, Sant Karen Sanga\nJai Ganesh Jai Ganesh Jai Ganesh Deva\nMata Jaki Parvati Pita Mahadeva\n\nDhoop Deep Lawe, Aur Phool Chadhave\nShankh Ghanta Dhwani Se, Sukh Sampatti Paave\nJai Ganesh Jai Ganesh Jai Ganesh Deva\nMata Jaki Parvati Pita Mahadeva\n\nTum Ho Ek Dayaalu, Mein Nirgunyaana\nKripa Karo Maharaj, Ab Mero Kaaj Banaana\nJai Ganesh Jai Ganesh Jai Ganesh Deva\nMata Jaki Parvati Pita Mahadeva"
+,
+    "deity": "Ganesha",
+    "language": "Hindi",
+    "duration": "3:45",
+    "audio": "/audio/jai-ganesh.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Vaishnav Jan To",
+    "lyrics": "Vaishnav jan to tene kahiye\nJe peerh paraayi jaaney re\nPar dukhe upkar kare toye\nMan abhimaan na aaney re\n\nSakaal lok maan sahune vande\nNindaa na kare keni re\nVaach kaachh man nischal raakhe\nDhan-dhan janani teni re\n\nSamdrishti ne trishna tyagi\nPar-stree jene maat re\nJivha thaki asatya na bole\nPar-dhan nav jhaley haath re\n\nMoh-maaya vyaape nahi jene\nDridha vairagya jena manma re\nRam naam shoon taaali laagi\nSakal tirth tena tanma re\n\nVaṇ-lobhinee ne kapat-rahit chhe\nKaam-krodh nivaarya re\nBhane Narsaiyyo tenun darshan karta\nKula ekoter taarya re"
+,
+    "deity": "Vishnu",
+    "language": "Gujarati",
+    "duration": "4:15",
+    "audio": "/audio/vaishnav-jan.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Shri Ram Chandra Kripalu Bhajman",
+    "lyrics": "Shri Ram Chandra Kripalu Bhajman\nHarana Bhavabhaya Daarunam\nNavakanja Lochan Kanja Mukha\nKarakanja Padakanjarunam\n\nKandarp Aganita Amit Chavi\nNavanil Neeraj Sundaram\nPatpeet Manahu Tadit Ruchi Shuchi\nNaumi Janakisutavaram\n\nBhaj Dinbandhu Dinesh Danav\nDaityavanshnikandanam\nRaghunand Anand Kand Kaushal\nChand Dasharath Nandanam\n\nShri Ram Chandra Kripalu Bhajman\nHarana Bhavabhaya Daarunam\n\nShir Mukut Kundal Tilak Charu\nUdaar Ang Vibhushanam\nAajaanubhuja Sharatjan\nSukhdayak Bhakta Poshak Namam\n\nRaghupati Raghav Rajaram\nPatit Paavan Sitaram\nBhaj Pyare Tu Sitaram\nBhaj Pyare Tu Hanuman\n\nShri Ram Chandra Kripalu Bhajman\nHarana Bhavabhaya Daarunam",
+    "deity": "Ram",
+    "language": "Awadhi",
+    "duration": "5:20",
+    "audio": "/audio/shri-ram-chandra.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Radhe Krishna Radhe Krishna",
+    "lyrics": "Radhe Krishna Radhe Krishna\nKrishna Krishna Radhe Radhe\nRadhe Shyam Radhe Shyam\nShyam Shyam Radhe Radhe\nRadhe Govind Radhe Govind\nGovind Govind Radhe Radhe\nRadhe Gopal Radhe Gopal\nGopal Gopal Radhe Radhe\nRadhe Giridhari Radhe Giridhari\nGiridhari Giridhari Radhe Radhe\nRadhe Damodar Radhe Damodar\nDamodar Damodar Radhe Radhe\nRadhe Madhav Radhe Madhav\nMadhav Madhav Radhe Radhe"
+,
+    "deity": "Krishna",
+    "language": "Sanskrit",
+    "duration": "4:50",
+    "audio": "/audio/radhe-krishna.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Om Namah Shivaya",
+    "lyrics": "Om Namah Shivaya\nOm Namah Shivaya\nShivaya Namah Om\nNamah Shivaya",
+    "deity": "Shiva",
+    "language": "Sanskrit",
+    "duration": "3:30",
+    "audio": "/audio/om-namah-shivaya.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Jai Ambe Gauri",
+    "lyrics": "Jai Ambe Gauri Maiya\nJai Shyama Gauri\nNishidin Tumko Dhyavat\nHar Brahmandeshwari...",
+    "deity": "Durga",
+    "language": "Hindi",
+    "duration": "6:15",
+    "audio": "/audio/jai-ambe-gauri.mp3"
+  },
+  {
+    "id": 12,
+    "title": "Shri Krishna Govind Hare Murari",
+    "lyrics": "Shri Krishna Govind Hare Murari\nHey Nath Narayan Vasudeva...",
+    "deity": "Krishna",
+    "language": "Sanskrit",
+    "duration": "5:10",
+    "audio": "/audio/shri-krishna-govind.mp3"
+  },
+  {
+    "id": 13,
+    "title": "Saraswati Vandana",
+    "lyrics": "Yaa Kundendu Tushaara Haara Dhavalaa\nYaa Shubhra Vastraavritaa\nYaa Veena Varadanda Manditakaraa...",
+    "deity": "Saraswati",
+    "language": "Sanskrit",
+    "duration": "4:40",
+    "audio": "/audio/saraswati-vandana.mp3"
+  },
+  {
+    "id": 14,
+    "title": "Hey Nath Narayan Vasudeva",
+    "lyrics": "Hey Nath Narayan Vasudeva\nHari Hari Govind Hare Murari...",
+    "deity": "Krishna",
+    "language": "Hindi",
+    "duration": "4:25",
+    "audio": "/audio/hey-nath-narayan.mp3"
+  },
+  {
+    "id": 15,
+    "title": "Shri Ram Jai Ram Jai Jai Ram",
+    "lyrics": "Shri Ram Jai Ram Jai Jai Ram\nOm Shri Ram Jai Ram Jai Jai Ram...",
+    "deity": "Ram",
+    "language": "Sanskrit",
+    "duration": "3:55",
+    "audio": "/audio/shri-ram-jai-ram.mp3"
+  }
+]
+
+
+
+   
+  

@@ -9,6 +9,7 @@ const Footer = () => {
           <div className="mb-6 md:mb-0">
             <h3 className="text-white font-bold text-xl mb-4">Dhyana</h3>
             <p className="mb-4">Ancient wisdom for modern wellness</p>
+
             <div className="flex space-x-4">
               <a href="https://example.com" className="text-gray-300 hover:text-white">
                 <Facebook size={20} />
@@ -72,3 +73,4 @@ const Footer = () => {
 };
 
 export default Footer;
+

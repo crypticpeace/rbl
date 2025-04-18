@@ -76,7 +76,7 @@ const SpiritualWellnessPage = () => {
             <div className="p-6 flex flex-col flex-grow">
               <h3 className="text-xl font-bold text-gray-800 mb-2">आध्यात्मिक कहानियाँ (Spiritual Stories)</h3>
               <p className="text-gray-600 mb-4 flex-grow">महाकाव्यों, पुराणों और लोक परंपराओं से ज्ञान की कहानियाँ जो मार्गदर्शन और प्रेरणा देती हैं।</p>
-              <a href="https://example.com" className="text-blue-700 hover:text-blue-900 font-semibold">Read Stories &rarr;</a>
+              <Link to="/stories" className="text-blue-700 hover:text-blue-900 font-semibold">Explore Stories &rarr;</Link>
             </div>
           </div>
           
